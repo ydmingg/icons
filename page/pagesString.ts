@@ -20,7 +20,7 @@ export const pagesStringIcons = {
     iconsMain: `<main class="vg-main">
                     <div class="icons-main-titles">
                     <div class="containers">
-                        <h1 class="titles h1 align-center font-weight-xxl color-gray-900">PIXSEL ICONS</h1>
+                        <h1 class="titles h1 align-center font-weight-xxl color-gray-900">PIKSEL ICONS</h1>
                         <p class="explain margin-auto font-size-24 font-weight-sm color-gray-700 line-height-lg text-center mt-24">
                             PIKSEL ICONS 图标库是一个通过技术驱动矢量图标样式的开源图标库，致力于构建高质量、统一化、可定义的图标资源。
                         </p>

@@ -1,5 +1,5 @@
 // 引入pagesString文件
-import { pagesStringIcons } from '../pages/pagesString';
+import { pagesStringIcons } from '../page/pagesString';
 // 获取的元素
 const app = document.getElementById("app") as HTMLElement;
 
